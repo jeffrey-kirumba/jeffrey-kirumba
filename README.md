@@ -11,7 +11,7 @@ Side Projects:
 
 - Initially, most of my side projects consisted of following web development tutorials (mainly HTML, CSS, and JavaScript).
 - This led me to learn the backend frameworks Django and Flask. Also, JavaScript's runtime environment node.js.
-- After taking UH's Algorithms and Databases courses, I got into visualizing and analysing data. 
+- After taking UH's Algorithms and Databases courses, I got into visualizing and analyzing data. 
 - I learned and utilized python libraries Beautiful Soup, numpy, pandas, streamlit, and yfinance. 
 
 Whats Next?:
